@@ -180,7 +180,7 @@ We'll be updating this once every month or so as we complete new topics in our o
 
 ### API Design: How Does the Backend Work?
 * [Pragmatic Microservices - Randy Shoup](https://www.youtube.com/watch?v=9vS7TbgirgY)
-* [REST I don't think it means what you think it does - Stefan Tilkob](https://www.youtube.com/watch?v=9vS7TbgirgY)
+* [REST I don't think it means what you think it does - Stefan Tilkov](https://www.youtube.com/watch?v=pspy1H6A3FM)
 * [What is a CDN and why Developers should care about one - Artur Bergman](https://www.youtube.com/watch?v=farO15_0NUQ)
 * [Demystifying Docker - Andrew T. Baker](https://www.youtube.com/watch?v=GVVtR_hrdKI)
 
